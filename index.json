@@ -3,7 +3,7 @@
   "author": "E-RIM",
   "url": "https://ERIM-Hyun.github.io/erims.toolbox.worldtool/index.json",
   "packages": {
-    "com.erim.toolbox.worldtool": {
+    "ERIM's Toolbox - World": {
       "versions": {
         "1.0.0": {
           "name": "erims.toolbox.worldtool",
